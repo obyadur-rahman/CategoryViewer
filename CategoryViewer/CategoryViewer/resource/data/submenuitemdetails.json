@@ -1,0 +1,62 @@
+
+{
+  "submenuitemdetails": [
+		{
+			"id":"1101",
+			"name":"Stuffed Chicken Breast",
+			"description":"Make a simply meal special by  stuffing  a  chicken breast . We have recipes using cheese, herbs, prosciutto, vegetables, pesto and many other tasty fillings.",
+			"price":"800",
+			"size":"XX",
+			"image":"http://www.cartoonista.com/img/food.jpg"
+		},
+		{
+			"id":"1102",
+			"name":"Mini Chicken Pizza",
+			"description":"Parboil or saute chicken. Remove bones. Heat soup. Prepare stuffing according to package directions. Place chicken pieces in casserole pan. Cover with half of soup. Place stuffing on top. Pour remaining soup over stuffing.Sprinkle with cheese if desired. Bake at 350 degrees for 30-45 minutes,until crispy.",
+			"price":"1200",
+			"size":"XXX",
+			"image":"http://farm5.static.flickr.com/4030/4713197395_35bed3f3c2.jpg"
+		},
+		{
+			"id":"1103",
+			"name":"Stuff Chicken Casserole",
+			"description":"Place chicken pieces in casserole pan. Cover with half of soup. Place stuffing on top..Make a simply meal special by  stuffing  a  chicken breast . We have recipes using cheese, herbs, prosciutto, vegetables, pesto and many other tasty fillings.",
+			"price":"550",
+			"size":"XXX",
+			"image":"http://food.sndimg.com/img/recipes/26/81/34/large/picHnOoX7.jpg"
+		},
+		{
+			"id":"1104",
+			"name":"Stuffed Breast",
+			"description":"Make a simply meal special by  stuffing  a  chicken breast . We have recipes using cheese, herbs, prosciutto, vegetables, pesto and many other tasty fillings.",
+			"price":"675",
+			"size":"XX",
+			"image":"http://www.imageblogs.org/wp-content/uploads/2011/05/delicious-food-collections-part-1-2.jpg"
+		},
+		{
+			"id":"1105",
+			"name":"Mini Chicken Pizza",
+			"description":"Parboil or saute chicken. Remove bones. Heat soup. Prepare stuffing according to package directions. Place chicken pieces in casserole pan. Cover with half of soup. Place stuffing on top. Pour remaining soup over stuffing.Sprinkle with cheese if desired. Bake at 350 degrees for 30-45 minutes,until crispy.",
+			"price":"550",
+			"size":"XXX",
+			"image":"http://www.zastavki.com/pictures/1024x768/2009/Food_Seafood_Delicious_food_with_seafood_012049_.jpg"
+		},
+		{
+			"id":"1106",
+			"name":"Stuff Chicken Casserole",
+			"description":"Make a simply meal special by  stuffing  a  chicken breast . We have recipes using cheese, herbs, prosciutto, vegetables, pesto and many other tasty fillings.",
+			"price":"120",
+			"size":"XXX",
+			"image":"http://www.imageblogs.org/wp-content/uploads/2011/04/delicious-food-treat-29.jpg"
+		},
+		{
+			"id":"1107",
+			"name":"Stuffed Chicken",
+			"description":"Make a simply meal special by  stuffing  a  chicken breast . We have recipes using cheese, herbs, prosciutto, vegetables, pesto and many other tasty fillings.",
+			"price":"999",
+			"size":"XX",
+			"image":"http://farm4.static.flickr.com/3592/3481277342_eaf0eaf0a5.jpg"
+		}
+  ]
+  
+}

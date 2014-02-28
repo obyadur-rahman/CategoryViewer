@@ -1,0 +1,38 @@
+
+{
+  "devicelist": [
+		{
+			"id":"001",
+			"name":"#device 1"
+		},
+		{
+			"id":"002",
+			"name":"#device 2"
+		},
+		{
+			"id":"003",
+			"name":"#device 3"
+		},
+		{
+			"id":"004",
+			"name":"#device 4"
+		},
+		{
+			"id":"005",
+			"name":"#device 5"
+		},
+		{
+			"id":"006",
+			"name":"#device 6"
+		},
+		{
+			"id":"007",
+			"name":"#device 7"
+		},
+		{
+			"id":"008",
+			"name":"#device 8"
+		}
+  ]
+  
+}

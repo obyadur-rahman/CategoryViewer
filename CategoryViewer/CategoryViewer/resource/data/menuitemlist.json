@@ -1,0 +1,51 @@
+
+{
+  "menuitemlist": [
+		{
+			"id":"1001",
+			"name":"Snacks",
+			"image":"http://www.groceryatdoor.com.au/images/snacks.jpg"
+		},
+		{
+			"id":"1002",
+			"name":"Starters",
+			"image":"http://img.foxy.sy2.com/images/default/starters.gif"
+		},
+		{
+			"id":"1003",
+			"name":"Salad & Soups",
+			"image":"http://www.foxandhound.com/Portals/0/images/salads-napa-valley-spinach-slide1.jpg"
+		},
+		{
+			"id":"1004",
+			"name":"Fresh Sea Food",
+			"image":"http://images.mylot.com/userImages/images/postphotos/2213659.jpg"
+		},
+		{
+			"id":"1005",
+			"name":"Chicken",
+			"image":"http://www.bestproteinwomen.com/wp-content/uploads/2012/06/chicken.jpg"
+		},
+		{
+			"id":"1006",
+			"name":"Meats",
+			"image":"http://catlovingcare.com/wp-content/uploads/2009/08/13/should-cats-eat-raw-chicken-and-uncooked-meat/Raw-Meat-cat-food-natural-diet-1l.jpg"
+		},
+		{
+			"id":"1007",
+			"name":"Vegetarians",
+			"image":"http://3.bp.blogspot.com/-I2HpSIVjQ3E/TkXbn-aspsI/AAAAAAAAK1A/U9cyBPhGk5w/s1600/vegetarian+food.jpg"
+		},
+		{
+			"id":"1008",
+			"name":"Pasta",
+			"image":"http://1.bp.blogspot.com/-LA9Y3jtYou0/Tu5axj1e0xI/AAAAAAAAAro/0WoZ4M4sv3A/s1600/Pasta+1.jpg"
+		},
+		{
+			"id":"1009",
+			"name":"Desserts",
+			"image":"http://4.bp.blogspot.com/-LaPBVju7lho/T-Z8qtLMzzI/AAAAAAAACfc/x-2G-XiKv3I/s1600/869173250a4x3_lg.jpg.jpg"
+		}
+  ]
+  
+}
